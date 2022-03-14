@@ -5,3 +5,5 @@
 
 ### Link to my stats220 repo
 >[Index.md](https://github.com/LeyanCao/stats220/edit/main/index.md)
+
+![](https://img.buzzfeed.com/buzzfeed-static/static/2017-03/7/22/asset/buzzfeed-prod-fastlane-01/sub-buzz-16013-1488942228-1.png?downsize=700%3A%2A&output-quality=auto&output-format=auto)
