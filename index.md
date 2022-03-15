@@ -1,11 +1,11 @@
-#
-
-## Meme that I created using R code
+# My Index Page
+***
+>## *Meme that I created using R code*
 ![My meme](my_meme.png "My meme")
 
 
-
-## R code I used to create this meme
+***
+>## *R code I used to create this meme*
 ```
 library(magick)
 
@@ -83,4 +83,9 @@ meme <- c(header, first_row, second_row, third_row, fourth_row) %>%
 
 image_write(meme, "E:/Stats 220/Assignment1/ass1pic/my_meme.png")
 ```
+
+***
+## *Reasons why I made this meme*
+1. I love The Simpsons.
+2. I want to satirize my previous weight loss experience. I saw a similar picture on the Internet before, and it explained very well why my previous attempts to weight loss    failed, so I decided to make a similar meme of it.
 
