@@ -1,11 +1,11 @@
 # My Index Page
 ***
->## *Meme that I created using R code*
+## *Meme that I created using R code*
 ![My meme](my_meme.png "My meme")
 
 
 ***
->## *R code I used to create this meme*
+## *R code I used to create this meme*
 ```
 library(magick)
 
