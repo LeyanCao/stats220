@@ -6,7 +6,7 @@
 
 ***
 ## *R code I used to create this meme*
-```
+```r
 library(magick)
 
 morning <- image_annotate(image_scale(image_read("ass1pic/1.jpg"), 400),
