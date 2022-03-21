@@ -81,7 +81,7 @@ fourth_row <- c(evening, evening_text) %>%
 meme <- c(header, first_row, second_row, third_row, fourth_row) %>%
   image_append(stack = TRUE)
 
-image_write(meme, "E:/Stats 220/Assignment1/ass1pic/my_meme.png")
+image_write(meme, "ass1pic/my_meme.png")
 ```
 
 ***
